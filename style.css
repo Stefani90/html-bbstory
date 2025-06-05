@@ -1,0 +1,29 @@
+h1 {
+  color: palevioletred;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  margin-inline: 100px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 20%;
+  border-style: solid;
+  border-color: palevioletred;
+  border-width: 5px;
+}
+
+body {
+  background-color: whitesmoke;
+}
